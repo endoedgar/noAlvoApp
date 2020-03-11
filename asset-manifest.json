@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noAlvoApp/static/css/main.1563db02.chunk.css",
+    "main.js": "/noAlvoApp/static/js/main.09118110.chunk.js",
+    "main.js.map": "/noAlvoApp/static/js/main.09118110.chunk.js.map",
+    "runtime-main.js": "/noAlvoApp/static/js/runtime-main.7436005a.js",
+    "runtime-main.js.map": "/noAlvoApp/static/js/runtime-main.7436005a.js.map",
+    "static/css/2.dcab9049.chunk.css": "/noAlvoApp/static/css/2.dcab9049.chunk.css",
+    "static/js/2.57edd233.chunk.js": "/noAlvoApp/static/js/2.57edd233.chunk.js",
+    "static/js/2.57edd233.chunk.js.map": "/noAlvoApp/static/js/2.57edd233.chunk.js.map",
+    "index.html": "/noAlvoApp/index.html",
+    "precache-manifest.98e3c2039970e5328fb836af28a9f5dc.js": "/noAlvoApp/precache-manifest.98e3c2039970e5328fb836af28a9f5dc.js",
+    "service-worker.js": "/noAlvoApp/service-worker.js",
+    "static/css/2.dcab9049.chunk.css.map": "/noAlvoApp/static/css/2.dcab9049.chunk.css.map",
+    "static/css/main.1563db02.chunk.css.map": "/noAlvoApp/static/css/main.1563db02.chunk.css.map",
+    "static/js/2.57edd233.chunk.js.LICENSE.txt": "/noAlvoApp/static/js/2.57edd233.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7436005a.js",
+    "static/css/2.dcab9049.chunk.css",
+    "static/js/2.57edd233.chunk.js",
+    "static/css/main.1563db02.chunk.css",
+    "static/js/main.09118110.chunk.js"
+  ]
+}
